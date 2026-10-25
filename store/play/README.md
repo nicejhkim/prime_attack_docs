@@ -43,8 +43,8 @@ Firebase가 들어오면서(2026-10-24) '수집 없음'이 아니게 됐다. 개
 
 `store/legal/privacy-policy-ko.md`(기본), `privacy-policy-en.md`. Pages 주소:
 
-- KO: https://nicejhkim.github.io/prime_attack/ko/privacy/
-- EN: https://nicejhkim.github.io/prime_attack/en/privacy/
+- KO: https://nicejhkim.github.io/prime_attack_docs/ko/privacy/
+- EN: https://nicejhkim.github.io/prime_attack_docs/en/privacy/
 
 앱이 바뀌어 수집 항목이 달라지면 `store/legal/`의 시행일과 함께 고친다(이슈 049·050의 버전 확인이 나가면 원격 구성 조회를 더해야 한다).
 

@@ -1,10 +1,9 @@
 # Prime Attack 법적 문서 사이트 (GitHub Pages)
-# main 앱 저장소(prime_attack)가 이 저장소를 Pages 소스로 쓰므로
-# 공개 URL은 https://nicejhkim.github.io/prime_attack/ 이다.
+# 공개 URL: https://nicejhkim.github.io/prime_attack_docs/
 title: Prime Attack
 description: Privacy policy and legal documents for Prime Attack
 url: https://nicejhkim.github.io
-baseurl: /prime_attack
+baseurl: /prime_attack_docs
 
 markdown: kramdown
 permalink: pretty

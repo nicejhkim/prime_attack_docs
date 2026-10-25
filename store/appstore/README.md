@@ -46,5 +46,5 @@
 ## 막힌 것
 
 - 스크린샷 (위)
-- ~~개인정보처리방침 URL 호스팅~~ — https://nicejhkim.github.io/prime_attack/ko/privacy/ (EN: `/en/privacy/`)
+- ~~개인정보처리방침 URL 호스팅~~ — https://nicejhkim.github.io/prime_attack_docs/ko/privacy/ (EN: `/en/privacy/`)
 

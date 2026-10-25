@@ -2,11 +2,11 @@
 
 Prime Attack 스토어·법적 문서용 GitHub Pages 저장소.
 
-앱 저장소(`prime_attack`) Pages 소스로 연결되어 있으며, 공개 주소는 다음과 같다.
+공개 주소:
 
-- 사이트: https://nicejhkim.github.io/prime_attack/
-- 개인정보처리방침 (KO): https://nicejhkim.github.io/prime_attack/ko/privacy/
-- Privacy Policy (EN): https://nicejhkim.github.io/prime_attack/en/privacy/
+- 사이트: https://nicejhkim.github.io/prime_attack_docs/
+- 개인정보처리방침 (KO): https://nicejhkim.github.io/prime_attack_docs/ko/privacy/
+- Privacy Policy (EN): https://nicejhkim.github.io/prime_attack_docs/en/privacy/
 
 ## 구조
 
