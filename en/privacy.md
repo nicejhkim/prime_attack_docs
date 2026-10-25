@@ -6,4 +6,4 @@ permalink: /en/privacy/
 description: Privacy Policy for Prime Attack
 ---
 
-{% include_relative ../store/legal/privacy-policy-en.md %}
+{% include legal/privacy-policy-en.md %}

@@ -8,12 +8,9 @@ baseurl: /prime_attack_docs
 markdown: kramdown
 permalink: pretty
 
-# 스토어 이미지·리스팅은 올리지 않는다.
-# store/legal 원본 md는 include_relative 로 읽히며, raw .md 로도 복사된다.
+# 스토어 제출 자료는 사이트에 올리지 않는다. 방침 본문은 _includes/legal/.
 exclude:
-  - store/appstore
-  - store/play
-  - store/.DS_Store
+  - store
   - README.md
   - .gitignore
 
